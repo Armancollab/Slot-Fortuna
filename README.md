@@ -11,7 +11,7 @@ Slot-Fortuna is an entertaining slot machine game implemented in Python using th
 - Click the "Spin" button to initiate the slot machine spin and unveil your fate.
 - The slot machine will display the results of the spin, and any winnings will be added to your balance.
 
-#Game Rules
+# Game Rules
 - The slot machine consists of 3 rows and 3 columns, forming a 3x3 grid.
 - Each row contains a random symbol (A, B, C, or D).
 - If all symbols in a line (horizontal, vertical, or diagonal) match, you win the corresponding prize based on the matched symbols and your bet.
