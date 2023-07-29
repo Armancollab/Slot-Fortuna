@@ -25,7 +25,7 @@ D: 2
 - If there are no matching symbols in a line, you win $0 for that line.
 - You can bet on up to 3 lines, and each line can have a different bet amount.
 
-About the Developer
+## About the Developer
 Hi, I'm Arman, a passionate learner and aspiring full-stack web developer. Currently exploring the captivating worlds of Python and web development, I seek creative challenges and enjoy building innovative solutions.
 
 Remember to play responsibly and avoid excessive gambling. Enjoy the game and have a fantastic time!
